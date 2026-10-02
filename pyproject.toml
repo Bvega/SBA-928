@@ -1,0 +1,19 @@
+[project]
+name = "per-scholas-module-928"
+version = "0.1.0"
+description = "Educational market research prompt engineering and fine-tuning project"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate",
+    "datasets",
+    "openpyxl",
+    "pandas",
+    "peft",
+    "torch",
+    "transformers",
+    "ucimlrepo",
+]
+
+[tool.uv]
+package = false

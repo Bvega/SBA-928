@@ -1,0 +1,9 @@
+.venv/
+.uv-cache/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+SBA_928/data/source/*
+!SBA_928/data/source/.gitkeep
+SBA_928/models/
