@@ -7,3 +7,6 @@ __pycache__/
 SBA_928/data/source/*
 !SBA_928/data/source/.gitkeep
 SBA_928/models/
+
+# Microsoft Word temporary files
+~\$*.docx
